@@ -9,11 +9,11 @@ dashedName: mitigate-the-risk-of-cross-site-scripting-xss-attacks-with-helmet-xs
 
 # --description--
 
-Нагадуємо, що цей проєкт створюється на основі стартового проєкту на <a href="https://replit.com/github/freeCodeCamp/boilerplate-infosec" target="_blank" rel="noopener noreferrer nofollow">Replit</a> або клонований з <a href="https://github.com/freeCodeCamp/boilerplate-infosec/" target="_blank" rel="noopener noreferrer nofollow">GitHub</a>.
+As a reminder, this project is being built upon the following starter project on <a href="https://gitpod.io/?autostart=true#https://github.com/freeCodeCamp/boilerplate-infosec/" target="_blank" rel="noopener noreferrer nofollow">Gitpod</a>, or cloned from <a href="https://github.com/freeCodeCamp/boilerplate-infosec/" target="_blank" rel="noopener noreferrer nofollow">GitHub</a>.
 
 Міжсайтовий скриптинг (XSS) — це частий тип атак, коли зловмисні скрипти потрапляють на вразливі сторінки, з метою крадіжки конфіденційних даних, як-от сеансові файли куки або паролі.
 
-Основне правило для зниження ризику атаки XSS просте: «Ніколи не довіряйте введеним даним». Як розробник, ви завжди повинні обробляти вхідні дані, що надходять ззовні. Сюди входять дані, які надходять з форм, запитів GET від url і навіть тіл POST. «Обробка» означає, що вам потрібно знайти і закодувати символи, які можуть бути небезпечними, наприклад &lt;, >.
+The basic rule to lower the risk of an XSS attack is simple: "Never trust user's input". Як розробник, ви завжди повинні обробляти вхідні дані, що надходять ззовні. Сюди входять дані, які надходять з форм, запитів GET від url і навіть тіл POST. «Обробка» означає, що вам потрібно знайти і закодувати символи, які можуть бути небезпечними, наприклад &lt;, >.
 
 Сучасні браузери можуть допомогти зменшити ризик за допомогою залучення кращих стратегій програмного забезпечення. Часто це можна налаштувати за допомогою заголовків http.
 

@@ -8,12 +8,7 @@ dashedName: sea-level-predictor
 
 # --description--
 
-Ви будете <a href="https://replit.com/github/freeCodeCamp/boilerplate-sea-level-predictor" target="_blank" rel="noopener noreferrer nofollow">працювати над цим проєктом з нашим стартовим кодом Replit</a>.
-
--   Почніть з імпорту проєкту на Replit.
--   Потім ви побачите вікно `.replit`.
--   Оберіть `Use run command` та натисніть кнопку `Done`.
-
+You will be <a href="https://gitpod.io/?autostart=true#https://github.com/freeCodeCamp/boilerplate-sea-level-predictor/" target="_blank" rel="noopener noreferrer nofollow">working on this project with our Gitpod starter code</a>.
 
 Ми досі розробляємо інтерактивну частину навчальної програми з Python. Наразі є декілька відео на ютуб-каналі freeCodeCamp.org, які навчать всього необхідного для виконання цього проєкту:
 
@@ -33,17 +28,15 @@ dashedName: sea-level-predictor
 - Побудуйте нову лінію, яка найкраще підходить, просто використовуючи дані з 2000 року до найновішого року в наборі даних. Зробіть так, щоб лінія також проходила через 2050 рік, щоб передбачити підвищення рівня моря в 2050 році, якщо темпи підвищення триватимуть, як це було з 2000 року.
 - Міткою X повинна бути `Year`, міткою Y повинна бути `Sea Level (inches)`, а назвою повинна бути `Rise in Sea Level`.
 
-Для вас складені модульні тести у `test_module.py`.
-
 Шаблон також містить команди для збереження та повернення зображення.
 
 ## Розробка
 
-Для розробки ви можете використати `main.py`, щоб протестувати свої функції. Натисніть кнопку «run» і `main.py` запуститься.
+Write your code in `sea_level_predictor.py`. For development, you can use `main.py` to test your code.
 
 ## Тестування
 
-Ми перенесли тести з `test_module.py` в `main.py` для вашої зручності. Тести запустяться автоматично, коли ви натиснете на кнопку «run».
+The unit tests for this project are in `test_module.py`. Ми перенесли тести з `test_module.py` в `main.py` для вашої зручності.
 
 ## Надсилання
 

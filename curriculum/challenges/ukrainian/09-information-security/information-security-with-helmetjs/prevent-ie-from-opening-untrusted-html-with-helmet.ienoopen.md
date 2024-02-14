@@ -8,9 +8,9 @@ dashedName: prevent-ie-from-opening-untrusted-html-with-helmet-ienoopen
 
 # --description--
 
-Нагадуємо, що цей проєкт створюється на основі стартового проєкту на <a href="https://replit.com/github/freeCodeCamp/boilerplate-infosec" target="_blank" rel="noopener noreferrer nofollow">Replit</a> або клонований з <a href="https://github.com/freeCodeCamp/boilerplate-infosec/" target="_blank" rel="noopener noreferrer nofollow">GitHub</a>.
+As a reminder, this project is being built upon the following starter project on <a href="https://gitpod.io/?autostart=true#https://github.com/freeCodeCamp/boilerplate-infosec/" target="_blank" rel="noopener noreferrer nofollow">Gitpod</a>, or cloned from <a href="https://github.com/freeCodeCamp/boilerplate-infosec/" target="_blank" rel="noopener noreferrer nofollow">GitHub</a>.
 
-Деякі вебзастосунки обслуговуватимуть ненадійний HTML для завантаження. Деякі версії Internet Explorer відкривають ці HTML-файли в контексті вашого сайту за замовчуванням. Через це ненадійна сторінка HTML може почати робити погані речі вашим сторінкам. Це проміжне програмне забезпечення встановлює заголовок X-Frame-Options на noopen (не відкривати). Це дозволить користувачам Internet Explorer виконувати завантаження на надійних сайтах.
+Деякі вебзастосунки обслуговуватимуть ненадійний HTML для завантаження. Деякі версії Internet Explorer відкривають ці HTML-файли в контексті вашого сайту за замовчуванням. Через це ненадійна сторінка HTML може почати робити погані речі вашим сторінкам. Це проміжне програмне забезпечення встановлює заголовок X-Frame-Options на noopen (не відкривати). This will prevent IE users from executing downloads in the trusted site's context.
 
 # --instructions--
 

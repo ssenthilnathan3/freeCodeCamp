@@ -8,12 +8,7 @@ dashedName: mean-variance-standard-deviation-calculator
 
 # --description--
 
-Ви будете <a href="https://replit.com/github/freeCodeCamp/boilerplate-mean-variance-standard-deviation-calculator" target="_blank" rel="noopener noreferrer nofollow">працювати над цим проєктом з нашим стартовим кодом Replit</a>.
-
--   Почніть з імпорту проєкту на Replit.
--   Потім ви побачите вікно `.replit`.
--   Оберіть `Use run command` та натисніть кнопку `Done`.
-
+You will be <a href="https://gitpod.io/?autostart=true#https://github.com/freeCodeCamp/boilerplate-mean-variance-standard-deviation-calculator/" target="_blank" rel="noopener noreferrer nofollow">working on this project with our Gitpod starter code</a>.
 
 Ми досі розробляємо інтерактивну частину навчальної програми з Python. Наразі є декілька відео на ютуб-каналі freeCodeCamp.org, які навчать всього необхідного для виконання цього проєкту:
 
@@ -55,15 +50,13 @@ dashedName: mean-variance-standard-deviation-calculator
 }
 ```
 
-Модульні тести для цього проєкту знаходяться в `test_module.py`.
-
 ## Розробка
 
-Для розробки ви можете використати `main.py`, щоб протестувати свою функцію `calculate()`. Натисніть кнопку «run» і `main.py` запуститься.
+Write your code in `mean_var_std.py`. For development, you can use `main.py` to test your code.
 
 ## Тестування
 
-Ми імпортували тести з `test_module.py` до `main.py` для вашої зручності. Тести запустяться автоматично, коли ви натиснете на кнопку «run».
+Модульні тести для цього проєкту знаходяться в `test_module.py`. Ми імпортували тести з `test_module.py` до `main.py` для вашої зручності.
 
 ## Надсилання
 

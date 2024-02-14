@@ -8,12 +8,7 @@ dashedName: page-view-time-series-visualizer
 
 # --description--
 
-Ви будете <a href="https://replit.com/github/freeCodeCamp/boilerplate-page-view-time-series-visualizer" target="_blank" rel="noopener noreferrer nofollow">працювати над цим проєктом з нашим стартовим кодом Replit</a>.
-
--   Почніть з імпорту проєкту на Replit.
--   Потім ви побачите вікно `.replit`.
--   Оберіть `Use run command` та натисніть кнопку `Done`.
-
+You will be <a href="https://gitpod.io/?autostart=true#https://github.com/freeCodeCamp/boilerplate-page-view-time-series-visualizer" target="_blank" rel="noopener noreferrer nofollow">working on this project with our Gitpod starter code</a>.
 
 Ми досі розробляємо інтерактивну частину навчальної програми з Python. Наразі є декілька відео на ютуб-каналі freeCodeCamp.org, які навчать всього необхідного для виконання цього проєкту:
 
@@ -33,17 +28,17 @@ dashedName: page-view-time-series-visualizer
 - Створіть функцію `draw_bar_plot`, яка малює стовпчикову діаграму, подібну до «examples/Figure_2.png». Вона повинна відображати середню кількість щоденних переглядів для кожного місяця, згрупованих за роками. Легенда повинна відображати мітки місяців та мати назву `Months`. На діаграмі міткою на осі X повинна бути `Years`, а міткою на осі Y повинна бути `Average Page Views`.
 - Створіть функцію `draw_box_plot`, яка використовує Seaborn, щоб намалювати два суміжні коробкові графіки, подібні до «examples/Figure_3.png». Ці коробкові графіки повинні показувати, як значення розподіляються протягом певного року чи місяця та як вони порівнюються з часом. Заголовком першої діаграми повинен бути `Year-wise Box Plot (Trend)`, а заголовком другої діаграми повинен бути `Month-wise Box Plot (Seasonality)`. Переконайтеся, що мітки місяця внизу починаються з `Jan`, а осі X та Y позначені правильно. Шаблонний код містить команди для підготовки даних.
 
-Для кожної діаграми обов’язково використайте копію кадру даних. Для вас складені модульні тести у `test_module.py`.
+Для кожної діаграми обов’язково використайте копію кадру даних.
 
 Шаблон також містить команди для збереження та повернення зображення.
 
 ## Розробка
 
-Для розробки ви можете використати `main.py`, щоб протестувати свої функції. Натисніть кнопку «run» і `main.py` запуститься.
+Write your code in `time_series_visualizer.py`. For development, you can use `main.py` to test your code.
 
 ## Тестування
 
-Ми імпортували тести з `test_module.py` до `main.py` для вашої зручності. Тести запустяться автоматично, коли ви натиснете на кнопку «run».
+The unit tests for this project are in `test_module.py`. Ми імпортували тести з `test_module.py` до `main.py` для вашої зручності.
 
 ## Надсилання
 
